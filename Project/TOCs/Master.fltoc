@@ -3,8 +3,8 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/NewFolder/NewFolder/NewFolder/NewFolder/Topiczzzzz.htm" />
+    Link="/Content/NewFolder/Topiczzzzz.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/NewFolder/NewFolder/NewFolder/NewFolder/Topicyyyyy.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/NewFolder/Topicyyyyy.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>
