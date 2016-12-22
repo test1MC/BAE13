@@ -7,4 +7,7 @@
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Resources/Topicyyyyy.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Resources/NewFolder/Topic101.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>
